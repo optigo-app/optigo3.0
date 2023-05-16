@@ -8,7 +8,7 @@ const database = [
     icon: 'tabler-timeline',
     title: 'Analytics Dashboard',
     category: 'dashboards',
-  },
+  }, 
   {
     id: 2,
     url: { name: 'dashboards-ecommerce' },
